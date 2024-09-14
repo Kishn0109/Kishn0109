@@ -8,3 +8,5 @@
 - 📫 How to reach me: kishan.lal.rai210121@gmail.com
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I have a diploma in digital electronics!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishn0109)](https://github.com/anuraghazra/github-readme-stats)
